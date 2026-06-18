@@ -10,7 +10,7 @@ Building backend projects using Java, Spring Boot, and Microservices
 Currently learning Spring Boot, Microservices, JUnit, and database design
 Strengthening my skills in frontend and system design
 
-- 👨‍💻 All of my projects are available at [https://snehanjali01@github.com](https://snehanjali01@github.com)
+- 👨‍💻 All of my projects are available at [https://snehanjali01@github.com](https://github.com/snehanjali01)
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL/NoSQL**
 
