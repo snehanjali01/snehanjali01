@@ -11,11 +11,8 @@ I build backend systems and REST APIs using Java, Spring Boot, and microservices
 
 <h3 align="left">Skills:</h3>
 Programming: Java, Spring Boot, Microservices
-
 Database: SQL, NoSQL
-
 Industry Knowledge: Agile Methodologies, SDLC, Git and GitHub, JUnit
-
 Tools: Postman, Maven, MySQL, MongoDB, Swagger UI
 
 <h3 align="left">Languages and Tools:</h3>
