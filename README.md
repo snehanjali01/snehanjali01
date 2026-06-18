@@ -6,8 +6,11 @@
 I build backend systems and REST APIs using Java, Spring Boot, and microservices. I'm improving my frontend and system-design skills and enjoy building reliable, well-tested services.
 
 🔭 Currently building: backend projects using Java, Spring Boot, and Microservices
+
 💬 Ask me about: Java, Spring Boot, REST APIs, SQL/NoSQL
+
 📫 How to reach me: sr9733988@gmail.com
+
 🔗 GitHub: https://github.com/snehanjali01
 
 <h3 align="left">Skills:</h3>
