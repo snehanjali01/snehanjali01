@@ -16,9 +16,7 @@ Programming: Java, Spring Boot, Microservices
 
 
 Database: SQL, NoSQL
-
 Industry Knowledge: Agile Methodologies, SDLC, Git and GitHub, JUnit
-
 Tools: Postman, Maven, MySQL, MongoDB, Swagger UI
 
 <h3 align="left">Languages and Tools:</h3>
