@@ -6,6 +6,7 @@
 🚀 Currently:
 
 Building backend projects using Java, Spring Boot, and Microservices
+
 Currently learning Spring Boot, Microservices, JUnit, and database design
 Strengthening my skills in frontend and system design
 
