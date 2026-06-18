@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Backend Developer (Java | Spring Boot | Microservices) </h3>
 
 🎓 ECE Graduate (2025) | 💻 Java Backend Developer
+
 I build backend systems and REST APIs using Java, Spring Boot, and microservices. I'm improving my frontend and system-design skills and enjoy building reliable, well-tested services.
 
 🔭 Currently building: backend projects using Java, Spring Boot, and Microservices
@@ -11,6 +12,7 @@ I build backend systems and REST APIs using Java, Spring Boot, and microservices
 
 <h3 align="left">Skills:</h3>
 Programming: Java, Spring Boot, Microservices
+
 
 
 Database: SQL, NoSQL
