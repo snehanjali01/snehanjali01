@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm snehanjali</h1>
 <h3 align="center">A passionate backend developer </h3>
-🎓ECE Graduate (2025) | 💻 Java Backend Developer | Spring Boot & Microservices
 
+🎓ECE Graduate (2025) | 💻 Java Backend Developer | Spring Boot & Microservices
 
 🚀 Currently:
 
